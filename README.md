@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Eclairsombre 👋 
 
-<!--
-**Eclairsombre/Eclairsombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a student at Polytech Lyon.
+- 19 years old.
+- Contact me on Discord: @eclairsombre
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+
+
+![download](https://github.com/Eclairsombre/Eclairsombre/assets/130174141/95673bd4-1b72-432c-a79d-cf34d1baf346)
+![download](https://github.com/Eclairsombre/Eclairsombre/assets/130174141/d5e80b14-a3fa-4e48-bb96-20de88a96a02)
+![download](https://github.com/Eclairsombre/Eclairsombre/assets/130174141/f1073e1f-8177-4f89-80ef-af7e34266840)
+
+
+## Stats
+
+### Github 
+<a href="https://github.com/Eclairsombre/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eclairsombre&show_icons=true&theme=tokyonight&hide=issues"  /></a>
+<a href="https://github.com/Eclairsombre/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclairsombre&langs_count=2&theme=tokyonight" /></a>
+
+### Leetcode
+<a href="https://leetcode.com/Eclairsombre/"><img src="https://leetcode-stats-six.vercel.app/?username=Eclairsombre&theme=dark" >
