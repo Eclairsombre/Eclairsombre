@@ -6,9 +6,9 @@
 
 ## Languages and Tools:
 <p>
-<a href="https://github.com/Eclairsombre/"><img align="center" src="https://github.com/Eclairsombre/Eclairsombre/assets/130174141/95673bd4-1b72-432c-a79d-cf34d1baf346" alt="cpp" style="width: 50px; height: auto;"/> </a>
-<a href="https://github.com/Eclairsombre/"><img align="center" src="https://github.com/Eclairsombre/Eclairsombre/assets/130174141/d5e80b14-a3fa-4e48-bb96-20de88a96a02" alt="python" style="width: 50px; height: auto;"/> </a>
-<a href="https://github.com/Eclairsombre/"><img align="center" src="https://github.com/Eclairsombre/Eclairsombre/assets/130174141/f1073e1f-8177-4f89-80ef-af7e34266840" alt="vscode" style="width: 50px; height: auto;"/> </a>
+<a href="https://github.com/Eclairsombre/"><img align="center" src="https://cdn.discordapp.com/attachments/1073627639820058766/1156902310681772073/cpp.png?ex=6516a8bd&is=6515573d&hm=7c191e3d00b2934d1993d7f121c3e6ecaa03267fb18d10dbf81171f6035cdfe4" alt="cpp" style="width: 50px; height: auto;"/> </a>
+<a href="https://github.com/Eclairsombre/"><img align="center" src="https://media.discordapp.net/attachments/1073627639820058766/1156901952530165974/python.png?ex=6516a867&is=651556e7&hm=8e3cbb80ccb5c3c4b8825b3d21df8dff23d2630dbacbe11651b7da517a6694f7" alt="python" style="width: 50px; height: auto;"/> </a>
+<a href="https://github.com/Eclairsombre/"><img align="center" src="https://media.discordapp.net/attachments/1073627639820058766/1156901934532415550/vscode.png?ex=6516a863&is=651556e3&hm=0b3952c4344058f52a8d5afb0e706e8c1920895e00648fc1f3a17a8406e43c4d" alt="vscode" style="width: 50px; height: auto;"/> </a>
 </p>
 
 ## Stats
