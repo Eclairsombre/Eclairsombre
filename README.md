@@ -4,14 +4,12 @@
 - 19 years old.
 - Contact me on Discord: @eclairsombre
 
-
 ## Languages and Tools:
-
-
-![download](https://github.com/Eclairsombre/Eclairsombre/assets/130174141/95673bd4-1b72-432c-a79d-cf34d1baf346)
-![download](https://github.com/Eclairsombre/Eclairsombre/assets/130174141/d5e80b14-a3fa-4e48-bb96-20de88a96a02)
-![download](https://github.com/Eclairsombre/Eclairsombre/assets/130174141/f1073e1f-8177-4f89-80ef-af7e34266840)
-
+<p>
+<a href="https://github.com/Eclairsombre/"><img align="center" src="https://github.com/Eclairsombre/Eclairsombre/assets/130174141/95673bd4-1b72-432c-a79d-cf34d1baf346" alt="cpp" style="width: 50px; height: auto;"/> </a>
+<a href="https://github.com/Eclairsombre/"><img align="center" src="https://github.com/Eclairsombre/Eclairsombre/assets/130174141/d5e80b14-a3fa-4e48-bb96-20de88a96a02" alt="python" style="width: 50px; height: auto;"/> </a>
+<a href="https://github.com/Eclairsombre/"><img align="center" src="https://github.com/Eclairsombre/Eclairsombre/assets/130174141/f1073e1f-8177-4f89-80ef-af7e34266840" alt="vscode" style="width: 50px; height: auto;"/> </a>
+</p>
 
 ## Stats
 
