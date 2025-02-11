@@ -1,7 +1,7 @@
 # Hi there, I'm Eclairsombre 👋 
 
 - Polytech Lyon student.
-- 19 years old.
+- 20 years old.
 - Contact me on Discord: @eclairsombre
 
 ## Languages and Tools:
