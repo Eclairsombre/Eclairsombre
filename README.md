@@ -28,5 +28,3 @@
 <a href="https://github.com/Eclairsombre/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eclairsombre&show_icons=true&theme=tokyonight&hide=issues"  /></a>
 <a href="https://github.com/Eclairsombre/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclairsombre&langs_count=5&theme=tokyonight" /></a>
 
-### Leetcode
-<a href="https://leetcode.com/Eclairsombre/"><img src="https://leetcode-stats-six.vercel.app/?username=Eclairsombre&theme=dark" >
